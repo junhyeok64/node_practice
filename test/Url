@@ -1,0 +1,56 @@
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?id=HTML',
+  query: [Object: null prototype] { id: 'HTML' },
+  pathname: '/',
+  path: '/?id=HTML',
+  href: '/?id=HTML'
+}
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?id=CSS',
+  query: [Object: null prototype] { id: 'CSS' },
+  pathname: '/',
+  path: '/?id=CSS',
+  href: '/?id=CSS'
+}
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?id=JavaScript',
+  query: [Object: null prototype] { id: 'JavaScript' },
+  pathname: '/',
+  path: '/?id=JavaScript',
+  href: '/?id=JavaScript'
+}
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: [Object: null prototype] {},
+  pathname: '/',
+  path: '/',
+  href: '/'
+}
